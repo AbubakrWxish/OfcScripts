@@ -1,1 +1,4 @@
-I set this repository to private due to copyrights. And i DO NOT own this script and i don't want others to copy. I will keep it private.
+Loadstring to use the script!
+```lua
+loadstring(game:HttpGet("https://raw.githubusercontent.com/AbubakrWxish/NewDexScript/refs/heads/main/dexplus.lua"))()
+```
